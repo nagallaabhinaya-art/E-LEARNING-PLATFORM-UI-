@@ -51,8 +51,15 @@ Education: Designing web-based learning dashboards for schools and online learni
 
 Corporate Training: Providing a clean platform for professional development courses.
 
-OUTPUT:
-
 Prototyping: A quick demonstration of how an e-learning portal could look and function.
 
 Skill Development: A personal learning tracker with integrated tutorials and progress monitoring.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/e66592d0-d118-45d6-bf39-ef7897c310bb)
+
+![Image](https://github.com/user-attachments/assets/3dad0bf8-18a6-4acf-9ada-f824f4d1ee14)
+
+![Image](https://github.com/user-attachments/assets/9f111103-00c2-4efa-9f92-a7d82be7c453)
+
+![Image](https://github.com/user-attachments/assets/ded67a34-3ee9-4776-a5c0-c8d07da27cda)
